@@ -2,7 +2,7 @@
 
 This python script enables the user to encrypt and decrypt text messages with a one-time pad. 
 
-**Usage**
+*Usage*
 
 In order to encrypt a file, type:
 
